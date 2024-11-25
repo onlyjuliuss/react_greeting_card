@@ -1,8 +1,6 @@
 # React + Vite
+# Greeting Cards Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Developed a React application called "Greeting Cards" utilizing Vite for project scaffolding and Tailwind CSS for styling. The project showcases reusable components like Header, GreetingCard, and App, highlighting a modular approach to UI design. Acquired hands-on experience in setting up projects with Vite, styling components using Tailwind CSS, and implementing dynamic content rendering through props.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot of Greeting Cards Application](C:\Users\jkpod\Desktop\Greeting-Cards\src\assets\Screenshot.png)
